@@ -53,7 +53,7 @@ Before you begin, ensure you have met the following requirements:
 2. Navigate to the project directory:
 
     ```bash
-    cd RA21.2
+    cd Dockerize-a-full-stack-application
     ```
 
 3. Install the necessary dependencies for the client and server:
@@ -90,7 +90,7 @@ To run the application, use Docker Compose:
 ## Project Structure
 
 ```plaintext
-RA21.2/
+Dockerize-a-full-stack-application/
 ├── client/
 │   ├── public/
 │   ├── src/
